@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-11-07T23:41:23.983052",
+  "heyWorld": "You have pushed the button this many times:",
+  "@heyWorld": {
+    "description": "Simple word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

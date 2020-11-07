@@ -1,0 +1,15 @@
+{
+
+  "writeKey": "a8870077902488034798-c0a999dd1c58d9bd49c46e0578464c314b558ff38271c51a88d6e864621c7938",
+  "readKey": "a8870077902488034798-c67db254c4436f4382e815b5c7a7ed11cc1640af1bfdad7f3417340179705127",
+
+  "upload": {
+    "type": "arb",
+    "files": "lib/l10n/intl_en.arb"
+  },
+
+  "download": {
+    "files": "lib/l10n/intl_de.arb"
+  }
+
+}
